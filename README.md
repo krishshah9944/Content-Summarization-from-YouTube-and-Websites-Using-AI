@@ -1,4 +1,3 @@
-# Content-Summarization-from-YouTube-and-Websites-Using-AI
 # 📰 Content Summarization from YouTube and Websites Using AI
 
 ## 🚀 Overview
